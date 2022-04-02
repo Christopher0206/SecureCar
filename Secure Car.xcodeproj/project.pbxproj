@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7338E3F627F7E6AD006487AC /* Imagenes in Resources */ = {isa = PBXBuildFile; fileRef = 7338E3F527F7E6AD006487AC /* Imagenes */; };
 		73CE03D427F6A977003BA15F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 73CE03D327F6A977003BA15F /* AppDelegate.m */; };
 		73CE03D727F6A977003BA15F /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 73CE03D627F6A977003BA15F /* SceneDelegate.m */; };
 		73CE03DA27F6A977003BA15F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73CE03D927F6A977003BA15F /* ViewController.m */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7338E3F527F7E6AD006487AC /* Imagenes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Imagenes; path = ../../../../Downloads/Imagenes; sourceTree = "<group>"; };
 		73CE03CF27F6A977003BA15F /* Secure Car.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Secure Car.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		73CE03D227F6A977003BA15F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		73CE03D327F6A977003BA15F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		73CE03D127F6A977003BA15F /* Secure Car */ = {
 			isa = PBXGroup;
 			children = (
+				7338E3F527F7E6AD006487AC /* Imagenes */,
 				73CE03D227F6A977003BA15F /* AppDelegate.h */,
 				73CE03D327F6A977003BA15F /* AppDelegate.m */,
 				73CE03D527F6A977003BA15F /* SceneDelegate.h */,
@@ -240,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				73CE03E227F6A988003BA15F /* LaunchScreen.storyboard in Resources */,
+				7338E3F627F7E6AD006487AC /* Imagenes in Resources */,
 				73CE03DF27F6A988003BA15F /* Assets.xcassets in Resources */,
 				73CE03DD27F6A977003BA15F /* Main.storyboard in Resources */,
 			);
