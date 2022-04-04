@@ -30,7 +30,7 @@
         self.imvSplash.frame =
         CGRectMake(self.imvSplash.frame.origin.x, self.view.frame.size.height/2 - self.imvSplash.frame.size.height/2, self.imvSplash.frame.size.width, self.imvSplash.frame.size.height);
     } completion:^(BOOL finished) {
-        
+        [self performSegueWithIdentifier:@"sgJuego" sender:nil];
     }];
 }
 
